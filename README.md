@@ -57,7 +57,7 @@ My motto in life is "There is nothing impossible without effort". I believe in m
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-0081CB?style=for-the-badge&logo=KNIME&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-0081CB?style=for-the-badge&logo=SQL&logoColor=white)
 
 
 ### Languages
