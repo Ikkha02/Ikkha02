@@ -18,7 +18,7 @@ Introduction about Myself
 </div>
 
 <div id="profileView" align="center">
-   <img src="https://komarev.com/ghpvc/?username=Ikkha02&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=ikkha02&label=Profile%20views&color=0e75b6&style=flat" alt="ikkha02" /> 
   <h1>
   Hey there, I'm Ikmal. Nice to meet you! 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
