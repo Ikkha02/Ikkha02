@@ -34,8 +34,6 @@ Assalamualaikum and hello everyone!
 
 My name is Ikmal Bin Khairulezuan and I'm 21 years old. I live in Taman Peringgit Permai, Melaka. I'm a third-year student at Universiti Teknologi Malaysia taking a Bachelor of Computer Science (Data Engineering) With Honours. Before entering UTM to continue my degree, I studied at UTMSPACE taking a foundation in social science for 1 year. My previous secondary school was MRSM Alor Gajah and my primary school was SK Peringgit, Melaka.
 
-My achievements are I obtained 5A in UPSR, 6A 2B 1C in PT3 and SPM, and obtained a CGPA of 3.55 in my foundation.
-
 My motto in life is "There is nothing impossible without effort". I believe in my motto because the person who has effort works hard, and is willing to sacrifice to achieve something I am pretty sure the person will succeed and live happily in their life.
 
 
